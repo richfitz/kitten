@@ -1,0 +1,12 @@
+Package: kitten
+Title: Download a Kitten
+Version: 0.1.0
+Description: Downloads kittens from the internet.
+Depends: R (>= 3.2.0)
+License: BSD_2_clause + file LICENSE
+LazyData: true
+Author: Rich FitzJohn
+Maintainer: Rich FitzJohn <rich.fitzjohn@gmail.com>
+Suggests: testthat,
+    knitr
+VignetteBuilder: knitr
